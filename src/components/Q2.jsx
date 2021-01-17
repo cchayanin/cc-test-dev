@@ -1,5 +1,4 @@
 import _ from 'lodash'
-import { span } from 'prelude-ls'
 
 function Q2(props) {
   const manipulateData = (arr) => {
